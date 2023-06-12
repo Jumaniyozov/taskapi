@@ -1,0 +1,10 @@
+INSERT INTO public.tasks_task (id, is_complete_status, created) VALUES (3, false, '2023-06-12 19:59:39.582848 +00:00');
+INSERT INTO public.tasks_task (id, is_complete_status, created) VALUES (4, false, '2023-06-12 20:00:10.455758 +00:00');
+INSERT INTO public.tasks_task (id, is_complete_status, created) VALUES (5, false, '2023-06-12 20:00:11.536328 +00:00');
+INSERT INTO public.tasks_task (id, is_complete_status, created) VALUES (6, false, '2023-06-12 20:00:12.909304 +00:00');
+INSERT INTO public.tasks_task (id, is_complete_status, created) VALUES (7, false, '2023-06-12 20:00:13.548288 +00:00');
+INSERT INTO public.tasks_task (id, is_complete_status, created) VALUES (8, false, '2023-06-12 20:00:14.124516 +00:00');
+INSERT INTO public.tasks_task (id, is_complete_status, created) VALUES (9, false, '2023-06-12 20:00:14.670635 +00:00');
+INSERT INTO public.tasks_task (id, is_complete_status, created) VALUES (10, false, '2023-06-12 20:00:15.186635 +00:00');
+INSERT INTO public.tasks_task (id, is_complete_status, created) VALUES (1, true, '2023-06-12 19:59:34.564311 +00:00');
+INSERT INTO public.tasks_task (id, is_complete_status, created) VALUES (2, true, '2023-06-12 19:59:38.166108 +00:00');
